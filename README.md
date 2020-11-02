@@ -1,3 +1,4 @@
+It's a Hackathon project for HackGT 2019. See https://devpost.com/software/happyeeg-biofeedback-for-strategic-marketing
 
 ## HappyEEG
 
