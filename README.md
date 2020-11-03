@@ -1,4 +1,6 @@
-It's a Hackathon project for HackGT 2019. See https://devpost.com/software/happyeeg-biofeedback-for-strategic-marketing
+It's a Hackathon project for HackGT 2019. 
+See https://devpost.com/software/happyeeg-biofeedback-for-strategic-marketing
+### Key word: Machine learning, Python, Real-time classifier, binary tree, EEG, Emotion prediction
 
 ## HappyEEG
 
